@@ -1,0 +1,13 @@
+The term hypertext was coined by Ted Nelson in 1965 in the Xanadu Project, which was in turn inspired by Vannevar Bush's 1930s vision of the microfilm-based information retrieval and management "memex" system described in his 1945 essay "As We May Think". Tim Berners-Lee and his team at CERN are credited with inventing the original HTTP, along with HTML and the associated technology for a web server and a text-based web browser. Berners-Lee first proposed the "WorldWideWeb" project in 1989—now known as the World Wide Web. The first version of the protocol had only one method, namely GET, which would request a page from a server.[12] The response from the server was always an HTML page.
+[13]he first documented version of HTTP was HTTP V0.9 (1991). Dave Raggett led the HTTP Working Group (HTTP WG) in 1995 and wanted to expand the protocol with extended operations, extended negotiation, richer meta-information, tied with a security protocol which became more efficient by adding additional methods and header fields.[14]
+[15] RFC 1945 officially introduced and recognized HTTP V1.0 in 1996.
+The HTTP WG planned to publish new standards in December 1995
+[16] and the support for pre-standard HTTP/1.1 based on the then developing RFC 2068 (called HTTP-NG) was rapidly adopted by the major browser developers in early 1996. End-user adoption of the new browsers was rapid. In March 1996, one web hosting company reported that over 40% of browsers in use on the Internet were HTTP 1.1 compliant. That same web hosting company reported that by June 1996, 65% of all browsers accessing their servers were HTTP/1.1 compliant.[17] The HTTP/1.1 standard as defined in RFC 2068 was officially released in January 1997. 
+Improvements and updates to the HTTP/1.1 standard were released under RFC 2616 in June 1999.
+In 2007, the HTTP Working Group was formed, in part, to revise and clarify the HTTP/1.1 specification. In June 2014, the WG released an updated six-part specification obsoleting RFC 2616:
+Year	HTTP Version
+1991	0.9
+1996	1.0
+1997	1.1
+2015	2.0
+Draft (2020)	3.0
