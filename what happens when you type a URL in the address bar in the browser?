@@ -1,0 +1,4 @@
+The browser checks the cache for a DNS record to find the corresponding IP address
+DNS(Domain Name System) is a database that maintains the name of the website (URL) and the particular IP address it links to.
+Every single URL on the internet has a unique IP address assigned to it. 
+The IP address belongs to the computer which hosts the server of the website we are requesting to access.
